@@ -16,7 +16,7 @@ Here are some of the tools and projects I’ve built:
 | :------ | :---------- |
 | [**Umami Analytics App**](https://github.com/ceviixx/umami-Analytics-App) | A native iOS client for Umami Analytics with full API integration |
 | [**umami API docs**](https://github.com/ceviixx/umami-api-docs) | Markdown-based, auto-tested documentation of [Umami Analytics](https://umami.is) Cloud API endpoints |
-| [**multi-gh-runner-setup**](https://github.com/ceviixx/multi-gh-runner-setup) | Shell-based automation to register multiple GitHub Actions runners |
+| [**Multi GitHub Runner Setup**](https://github.com/ceviixx/multi-gh-runner-setup) | Shell-based automation to register multiple GitHub Actions runners |
 
 Feel free to explore, clone, and contribute! 🚀
 
