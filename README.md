@@ -14,6 +14,7 @@ Here are some of the tools and projects I’ve built:
 
 | Project | Description |
 | :------ | :---------- |
+| [**UmamiSender**](https://github.com/ceviixx/UmamiSender) | Automated scheduled reports from [Umami Analytics](https://umami.is), delivered via email or Discord webhook – supports both Cloud & Self-Hosted |
 | [**Umami Analytics App**](https://github.com/ceviixx/umami-Analytics-App) | A native iOS client for Umami Analytics with full API integration |
 | [**umami API docs**](https://github.com/ceviixx/umami-api-docs) | Markdown-based, auto-tested documentation of [Umami Analytics](https://umami.is) Cloud API endpoints |
 | [**Multi GitHub Runner Setup**](https://github.com/ceviixx/multi-gh-runner-setup) | Shell-based automation to register multiple GitHub Actions runners |
